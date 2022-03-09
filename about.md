@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Being a better and responsible artist, creator, and writer necessitates us to be better read.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[evan.kwong13@gmail.com](mailto:evan.kwong13@gmail.com)
